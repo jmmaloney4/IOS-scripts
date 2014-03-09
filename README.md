@@ -4,9 +4,9 @@ Scripts for IOS Devices, some may only work with a Jailbreak
 
 On OSX build with
 
-...
+```
 c++ ./example.cpp
-...
+```
 
 kickout kicks a connected IOS Device out of DFU Mode
 
