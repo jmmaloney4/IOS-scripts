@@ -21,3 +21,5 @@ Script Descriptions:
 kickout kicks a connected IOS Device out of DFU Mode
 
 getudid gets the UDID of a connected IOS Device
+
+getecid gets the ECID of a connected IOS Device in DFU Mode
