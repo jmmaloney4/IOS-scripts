@@ -8,6 +8,14 @@ On OSX build with
 c++ ./example.cpp
 ```
 
+Depends on IRecovery
+
+On OSX install with Macports
+
+```
+sudo port install irecovery
+```
+
 Script Descriptions:
 
 kickout kicks a connected IOS Device out of DFU Mode
